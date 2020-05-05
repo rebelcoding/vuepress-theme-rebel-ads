@@ -1,0 +1,35 @@
+{
+  "name": "@cultureclap/vuepress-theme-rebel-ads",
+  "version": "1.0.0",
+  "description": "Modification of VuePress theme for official Vue projects to include ad space",
+  "keywords": [
+    "documentation",
+    "generator",
+    "vue",
+    "vuepress"
+  ],
+  "homepage": "https://github.com/rebelcoding/vuepress-theme-rebel-ads.git",
+  "bugs": {
+    "url": "https://github.com/RebelCoding"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebelcoding/vuepress-theme-rebel-ads.git",
+    "directory": "packages/@cultureclap/vuepress-theme-vue-ads"
+  },
+  "license": "MIT",
+  "author": "Culture Clap",
+  "main": "index.js",
+  "dependencies": {
+    "@vuepress/theme-default": "1.4.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "maintainers": [
+    {
+      "name": "CultureClap",
+      "email": "canin@dreamfreely.org"
+    }
+  ]
+}
